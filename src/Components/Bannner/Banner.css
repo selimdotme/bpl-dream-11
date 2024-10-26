@@ -1,0 +1,7 @@
+.bg-img{
+    background-image: url(../../assets/bg-shadow.png);
+    background-repeat: no-repeat;
+    background-color: rgba(0, 0, 0, 0.979);
+    background-size: cover;
+    background-position: center;
+}

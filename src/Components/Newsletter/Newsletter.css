@@ -1,0 +1,7 @@
+.newsletter{
+    background-image: url("../../assets/bg-shadow.png");
+    background-repeat: no-repeat;
+    background-color: rgba(0, 0, 0, 0.109);
+    background-size: cover;
+    background-position: center;
+}
